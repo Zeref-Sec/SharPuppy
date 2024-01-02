@@ -1,0 +1,7 @@
+C:\Users\Dev\source\repos\SharPuppy\bin\Debug\SharPuppy.exe.config
+C:\Users\Dev\source\repos\SharPuppy\bin\Debug\SharPuppy.exe
+C:\Users\Dev\source\repos\SharPuppy\bin\Debug\SharPuppy.pdb
+C:\Users\Dev\source\repos\SharPuppy\obj\Debug\SharPuppy.csproj.AssemblyReference.cache
+C:\Users\Dev\source\repos\SharPuppy\obj\Debug\SharPuppy.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\SharPuppy\obj\Debug\SharPuppy.exe
+C:\Users\Dev\source\repos\SharPuppy\obj\Debug\SharPuppy.pdb
